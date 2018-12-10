@@ -93,6 +93,6 @@
     </Configuration>
   </Settings>
   <VirtualDirectory Name="src">
-    <File Name="main.java"/>
+    <File Name="HelloWorld.java"/>
   </VirtualDirectory>
 </CodeLite_Project>
